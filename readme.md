@@ -14,7 +14,7 @@ only in windows
 pip3 install pyvisa
 ```
 
-##File and Folder Structure
+## File and Folder Structure
 ```
 ├──  matlab_to_draw  -   here's .m and sample for how to draw double frenquency test and  peak detection 
 │    └── double_frenquency.m 	-
